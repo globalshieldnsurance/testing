@@ -97,7 +97,7 @@
 							<goal>prepare-agent</goal>
 						</goals>
 					</execution>
-                    <!-- test IAM user for Backup operations QUtJQTNYNkNTS0VMNjM2TFVPU1c= | emNSVlVROGQzWjZjTldpQTVwYTJ2eGNhSU12VGxZdGhNT3dpc1pXOQ==  -->
+                    
 					<!-- attached to Maven test phase -->
 					<execution>
 						<id>report</id>
